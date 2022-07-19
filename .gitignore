@@ -1,0 +1,20 @@
+# MacOS attributes/metadata
+.DS_Store
+# checkpoints (Cache for .ipynb Notebook files)
+.ipynb_checkpoints
+**/*.ipynb_checkpoints/
+# Jetbrains Config (setup with DB driver / other data specific to users)
+.idea
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Virtual environment folder(s):
+env
+.env
+.venv
+venv
